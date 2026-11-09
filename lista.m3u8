@@ -1,0 +1,33 @@
+#EXTM3U x-tvg-url="https://www.tdtchannels.com/epg/TV.xml.gz"
+#EXTINF:-1 tvg-chno="1" tvg-id="La1.TV" tvg-name="La 1" tvg-logo="https://graph.facebook.com/la1detve/picture?width=200&height=200" group-title="Generalistas",La 1
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="La2.TV" tvg-name="La 2" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas",La 2
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://i.imgur.com/j3SP4BS.png" group-title="Generalistas",Antena 3
+http://177.10.184.193:8000/play/a06a/index.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://i.imgur.com/zROxNap.png" group-title="Generalistas",Cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="Telecinco.es" tvg-name="Telecinco" tvg-logo="https://i.imgur.com/JECsKdk.png" group-title="Generalistas",Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="LaSexta.es" tvg-name="laSexta" tvg-logo="https://i.imgur.com/b59MxgM.png" group-title="Generalistas",laSexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-id="TDP.TV" tvg-name="Teledeporte" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Generalistas",Teledeporte
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]
+#EXTINF:-1 tvg-chno="9" tvg-id="24Horas.TV" tvg-name="24h" tvg-logo="https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg" group-title="Generalistas",24h
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="13.TV" tvg-name="Trece" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas",Trece
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-id="Mega.cl" tvg-name="Mega" tvg-logo="https://i.imgur.com/CYdWSDb.png" group-title="Series y cine",Mega
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="15" tvg-id="FactoriadeFiccion.es" tvg-name="FDF" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/fdf-es.png" group-title="Series y cine",FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
+#EXTINF:-1 tvg-chno="19" tvg-id="ParamountNetwork.es" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/500px-Paramount_Network.svg.png" group-title="Series y cine",Paramount Network
+https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
+#EXTINF:-1 tvg-chno="20" tvg-id="BomCine.es" tvg-name="BOM Cine" tvg-logo="https://i.imgur.com/cqhofMU.png" group-title="Series y cine",BOM Cine
+https://tsw.streamingwebtv24.it:1936/inteccdn3/inteccdn3/playlist.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-id="Clan.TV" tvg-name="Clan" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles",Clan
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15620
+#EXTINF:-1 tvg-chno="22" tvg-id="Boing.es" tvg-name="Boing" tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="Infantiles",Boing
+https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_1.m3u8
+#EXTINF:-1 tvg-chno="23" tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="https://i.imgur.com/dmEmRX7.png" group-title="Documentales",DMAX
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
