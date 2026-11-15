@@ -3,6 +3,7 @@
 ⚠ 5. Telecinco: no responde desde aquí (puede ser bloqueo fuera de España)
 ⚠ 6. laSexta: no responde desde aquí (puede ser bloqueo fuera de España)
 ⚠ 7. Aragón TV: no está en ninguna fuente
+❌ 10. Trece: ya no aparece en las fuentes; se mantiene el enlace anterior
 ⚠ 11. Neox: no está en ninguna fuente
 ⚠ 12. Nova: no está en ninguna fuente
 ⚠ 14. Atreseries: no está en ninguna fuente
